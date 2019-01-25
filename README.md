@@ -1,2 +1,2 @@
 # cicd-test
-CI/CD Pipeline testing with Jenkins
+CI/CD pipeline testing with Jenkins
